@@ -1,0 +1,14 @@
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\bin\Debug\net8.0\Gero code.exe
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\bin\Debug\net8.0\Gero code.deps.json
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\bin\Debug\net8.0\Gero code.runtimeconfig.json
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\bin\Debug\net8.0\Gero code.dll
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\bin\Debug\net8.0\Gero code.pdb
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.AssemblyInfoInputs.cache
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.AssemblyInfo.cs
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.dll
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\refint\Gero code.dll
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.pdb
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\Gero code.genruntimeconfig.cache
+C:\Users\milen\Desktop\School programing\Gero code\Gero code\obj\Debug\net8.0\ref\Gero code.dll
